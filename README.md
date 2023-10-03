@@ -6,8 +6,8 @@ Este repositório contém os arquivos referentes ao desenvolvimento do projeto "
 Neste projeto, foi utilizado a biblioteca OpenAI para interagir com o modelo GPT-3.5 Turbo. O GPT-3.5 Turbo é uma poderosa ferramenta de IA que pode gerar texto com base em entradas fornecidas a ele. Integrando-o em um pipeline de ETL, permite explorar como esse modelo pode ser aplicado em cenários do mundo real.
 
 ## Estrutura do Repositório
-- "dados.csv": O arquivo CSV contendo os dados de entrada necessários para o projeto.
-- "script.py": O arquivo Python contendo o código fonte relacionado ao projeto."
+- "ETL_BD.CSV": O arquivo CSV contendo os dados de entrada necessários para o projeto.
+- "Desafio_ETL.py": O arquivo Python contendo o código fonte relacionado ao projeto."
 
 ## Link para o Notebook Colab:
 Para ver o notebook Colab relacionado a este projeto, [clique aqui](https://colab.research.google.com/drive/1VfBIuZHYvSgHUPW1whdD9Gk90t86HeSl?usp=sharing).
